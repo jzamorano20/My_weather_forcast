@@ -1,0 +1,9 @@
+header{
+    color:black;
+    font-size: large;
+    border: 15px solid grey;
+    text-align: center;
+}
+.col-4{
+    border-radius: 15px soild black;
+}
