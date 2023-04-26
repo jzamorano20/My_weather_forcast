@@ -31,4 +31,7 @@ THEN I am again presented with current and future conditions for that city
 * Font Awesome
 * OpenWeather API
 
+## Screenshot
 
+
+![This is a screenshot of the app](./assets/css/img/forecast.png)
